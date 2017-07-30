@@ -1,5 +1,6 @@
 build/
 bin/
+devel/
 lib/
 msg_gen/
 srv_gen/
@@ -45,3 +46,4 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+.catkin_workspace
