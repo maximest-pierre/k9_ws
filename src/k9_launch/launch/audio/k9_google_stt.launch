@@ -1,0 +1,3 @@
+<launch>
+   <node name="k9_stt" pkg="lab_ros_speech_to_text" type="stt.py"/>
+</launch>
